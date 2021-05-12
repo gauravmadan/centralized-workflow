@@ -1,0 +1,2 @@
+git remote -v
+git clone git@github.com:devarajun/centralized-workflow.git
